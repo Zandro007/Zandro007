@@ -1,4 +1,4 @@
-- 👋 Meu nome é Elisandro
+- 👋 Meu nome é Elisandro Soares
 - 👀 Sou advogado por formação
 - 🌱 Apaixonado por tecnologia e inovação
 - 💞️ Iniciando uma nova carreira como Dev. Junior 
