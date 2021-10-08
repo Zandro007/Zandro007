@@ -1,8 +1,8 @@
-- 👋 Meu nome é Elisandro Soares
-- 👀 Sou advogado por formação
-- 🌱 Apaixonado por tecnologia e inovação
-- 💞️ Projetos como Dev. Junior 
-- 📫 Buscando por experiência e colaboração
+- � Meu nome é Elisandro Soares
+- � Sou advogado por formação
+- � Apaixonado por tecnologia e inovação
+- � Projetos como Dev. Junior 
+- � Buscando por experiência e colaboração
 
 <!---
 Zandro007/Zandro007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
