@@ -1,10 +1,9 @@
 - Meu nome é Elisandro Soares
-- Sou advogado por formação
+- Projetos fullstack
 - Apaixonado por tecnologia e inovação
-- Projetos como Dev. Junior 
-- Buscando por experiência e colaboração
+- Javascript, React, Bootstrap
+- Advogado por formação
 
 <!---
-Zandro007/Zandro007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
