@@ -2,7 +2,7 @@
 - Projetos fullstack
 - Apaixonado por tecnologia e inovação
 - Javascript, React, Bootstrap
-- Advogado por formação
+- Diversos cursos e bootcamps na aŕea de tecnologia
 
 <!---
 
