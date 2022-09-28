@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨🏾‍💻 Trabalhando como Desenvolvedor Fullstack<br> 🛠 Colaboração para maximizar resultados<br> 💻 Ecossistemas React, Angular e Java<br> 💡 Ajudo você à montar seu projeto para web ou app<br> 🤝 Soft skills para projetos em equipe<br> 🎉 Vida leve e com bom humor
+ 👨🏾‍💻 Working as a Fullstack Developer<br> 🛠 Collaboration to maximize results<br> 💻 React, Angular and Java ecosystems<br> 💡 I help you to assemble your project for web or app<br> 🤝 Soft skills for team projects<br> 🎉 Light life and good humor
 
 
 ## 🌐 Socials:
