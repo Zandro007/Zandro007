@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨🏾‍💻 Working as a Software Engineer<br> 🛠 Collaboration to maximize results<br> 💻 React, Typescript and Java ecosystems<br> 💡 I help you to assemble your project for web or app<br> 🤝 Soft skills for team projects<br> 🎉 Light life and good humor
+ 👨🏾‍💻 AI Software Engineer<br> 🛠 Collaboration to maximize results<br> 💻 React, Typescript and Java ecosystems<br> 💡 I help you to assemble your project for web or app<br> 🤝 Soft skills for team projects<br> 🎉 Light life and good humor
 
 
 ## 🌐 Socials:
